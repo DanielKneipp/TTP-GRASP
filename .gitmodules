@@ -1,0 +1,3 @@
+[submodule "paal"]
+	path = paal
+	url = http://siekiera.mimuw.edu.pl:8082/paal
